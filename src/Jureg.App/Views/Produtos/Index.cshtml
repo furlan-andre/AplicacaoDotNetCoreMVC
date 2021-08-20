@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Jureg.App.Dto.ProdutoDto>
+
+@{
+    ViewData["Title"] = "Lista de Produtos";
+}
+
+<h1>@ViewData["Title"]</h1>
+<hr/>
+<vc:Symmary></vc:Symmary>
+<p>
+    <a class="btn btn-info" asp-action="Create">Novo</a>
+</p>
+<partial name="_ListaProdutos" />

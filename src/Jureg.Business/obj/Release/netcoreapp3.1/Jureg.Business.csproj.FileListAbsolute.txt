@@ -1,0 +1,9 @@
+C:\projects\MeuAppCompleto\src\Jureg.Business\bin\Release\netcoreapp3.1\Jureg.Business.deps.json
+C:\projects\MeuAppCompleto\src\Jureg.Business\bin\Release\netcoreapp3.1\Jureg.Business.dll
+C:\projects\MeuAppCompleto\src\Jureg.Business\bin\Release\netcoreapp3.1\Jureg.Business.pdb
+C:\projects\MeuAppCompleto\src\Jureg.Business\obj\Release\netcoreapp3.1\Jureg.Business.csprojAssemblyReference.cache
+C:\projects\MeuAppCompleto\src\Jureg.Business\obj\Release\netcoreapp3.1\Jureg.Business.AssemblyInfoInputs.cache
+C:\projects\MeuAppCompleto\src\Jureg.Business\obj\Release\netcoreapp3.1\Jureg.Business.AssemblyInfo.cs
+C:\projects\MeuAppCompleto\src\Jureg.Business\obj\Release\netcoreapp3.1\Jureg.Business.csproj.CoreCompileInputs.cache
+C:\projects\MeuAppCompleto\src\Jureg.Business\obj\Release\netcoreapp3.1\Jureg.Business.dll
+C:\projects\MeuAppCompleto\src\Jureg.Business\obj\Release\netcoreapp3.1\Jureg.Business.pdb

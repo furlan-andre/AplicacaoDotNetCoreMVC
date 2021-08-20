@@ -1,0 +1,15 @@
+C:\projects\MeuAppCompleto\src\Jureg.Data\bin\Release\netcoreapp3.1\Jureg.Data.deps.json
+C:\projects\MeuAppCompleto\src\Jureg.Data\bin\Release\netcoreapp3.1\Jureg.Data.runtimeconfig.json
+C:\projects\MeuAppCompleto\src\Jureg.Data\bin\Release\netcoreapp3.1\Jureg.Data.runtimeconfig.dev.json
+C:\projects\MeuAppCompleto\src\Jureg.Data\bin\Release\netcoreapp3.1\Jureg.Data.dll
+C:\projects\MeuAppCompleto\src\Jureg.Data\bin\Release\netcoreapp3.1\Jureg.Data.pdb
+C:\projects\MeuAppCompleto\src\Jureg.Data\bin\Release\netcoreapp3.1\Jureg.Business.dll
+C:\projects\MeuAppCompleto\src\Jureg.Data\bin\Release\netcoreapp3.1\Jureg.Business.pdb
+C:\projects\MeuAppCompleto\src\Jureg.Data\obj\Release\netcoreapp3.1\Jureg.Data.csprojAssemblyReference.cache
+C:\projects\MeuAppCompleto\src\Jureg.Data\obj\Release\netcoreapp3.1\Jureg.Data.AssemblyInfoInputs.cache
+C:\projects\MeuAppCompleto\src\Jureg.Data\obj\Release\netcoreapp3.1\Jureg.Data.AssemblyInfo.cs
+C:\projects\MeuAppCompleto\src\Jureg.Data\obj\Release\netcoreapp3.1\Jureg.Data.csproj.CoreCompileInputs.cache
+C:\projects\MeuAppCompleto\src\Jureg.Data\obj\Release\netcoreapp3.1\Jureg.Data.csproj.CopyComplete
+C:\projects\MeuAppCompleto\src\Jureg.Data\obj\Release\netcoreapp3.1\Jureg.Data.dll
+C:\projects\MeuAppCompleto\src\Jureg.Data\obj\Release\netcoreapp3.1\Jureg.Data.pdb
+C:\projects\MeuAppCompleto\src\Jureg.Data\obj\Release\netcoreapp3.1\Jureg.Data.genruntimeconfig.cache
